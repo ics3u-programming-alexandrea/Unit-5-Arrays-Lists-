@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\bin\Debug\IntroductionToArraysAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\bin\Debug\IntroductionToArraysAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\bin\Debug\IntroductionToArraysAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\obj\Debug\IntroductionToArraysAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\obj\Debug\IntroductionToArraysAlex.frmArrays.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\obj\Debug\IntroductionToArraysAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\obj\Debug\IntroductionToArraysAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\obj\Debug\IntroductionToArraysAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\obj\Debug\IntroductionToArraysAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\IntroductionToArraysAlex\IntroductionToArraysAlex\obj\Debug\IntroductionToArraysAlex.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\bin\Debug\FindMaxValueAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\bin\Debug\FindMaxValueAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\bin\Debug\FindMaxValueAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\obj\Debug\FindMaxValueAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\obj\Debug\FindMaxValueAlex.frmFindMaxValue.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\obj\Debug\FindMaxValueAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\obj\Debug\FindMaxValueAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\obj\Debug\FindMaxValueAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\FindMaxValueAlex\FindMaxValueAlex\obj\Debug\FindMaxValueAlex.pdb

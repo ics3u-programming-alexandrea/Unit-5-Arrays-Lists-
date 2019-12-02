@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Alex Ude
+ * Created on: 2-12-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #37 - Find Max Value
+ * This program creats and array made up of random numbers and finds the greatest
+ * value in the array
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,11 +37,39 @@ namespace FindMaxValueAlex
             const int MAX_RANDOM_NUMBER = 500;
             int[] arrayOfIntergers = new int[MAX_ARRAY_SIZE];
             int counter, randomNumber, maxValue;
+            Random numGen = new Random();
+            //clear items in the listbox
+            lstNumbers.Items.Clear();
+            for (counter = 0; counter< arrayOfIntergers.Length; counter++)
+            {
+                //generate random numbers
+                randomNumber = numGen.Next(0, MAX_RANDOM_NUMBER + 1);
+                lstNumbers.Items.Add(randomNumber);
+                arrayOfIntergers[counter] = randomNumber;
+            }
+            maxValue = MaxValue(arrayOfIntergers);
+            //show the label , and display the max value
+            lblMaxValue.Text = "Max Value; " + maxValue;
+            lblMaxValue.Show();
+        }
 
-            //Function: GetMaxValue
-            //Input: int[] tmpArrayOfIntergers - assume all values 
-            //Output: 
-            //Description:
+        //Function: GetMaxValue
+        //Input: int[] tmpArray - assume all values 
+        //Output: 
+        //Description:this function takes an array of integers and gets the greatest value in the array
+        private int MaxValue(int[]tmpArray)
+        {
+            //declear variables
+            int maxValue = tmpArray[0];
+            //check the numbers in the array if a number is bigger than the other, it is the max value
+            foreach(int value in tmpArray)
+            {
+                if(value> maxValue)
+                {
+                    maxValue = value;
+                }
+            }
+            return maxValue;
         }
     }
 }

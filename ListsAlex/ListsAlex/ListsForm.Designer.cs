@@ -82,7 +82,7 @@
             this.btnCalculate.TabIndex = 4;
             this.btnCalculate.Text = "Calculate Average";
             this.btnCalculate.UseVisualStyleBackColor = true;
-         
+            this.btnCalculate.Click += new System.EventHandler(this.BtnCalculate_Click);
             // 
             // lblAverage
             // 

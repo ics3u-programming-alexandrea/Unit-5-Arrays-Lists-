@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DealCardAlex", "DealCardAlex\DealCardAlex.csproj", "{0F6F6A49-BE28-468A-8B19-328F7E5D3176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6F6A49-BE28-468A-8B19-328F7E5D3176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6F6A49-BE28-468A-8B19-328F7E5D3176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6F6A49-BE28-468A-8B19-328F7E5D3176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6F6A49-BE28-468A-8B19-328F7E5D3176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B23F6031-997A-4079-BA37-AA19CED53332}
+	EndGlobalSection
+EndGlobal

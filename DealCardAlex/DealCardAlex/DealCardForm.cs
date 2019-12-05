@@ -16,8 +16,7 @@ namespace DealCardAlex
         List<Image> ListCardImages = new List<Image>();
         List<int> ListCardValues = new List<int>();
         Random randnum = new Random();
-        int sumPlayer = 0;
-        int sumDealer = 0;
+        
         public frmDealCard()
         {
             InitializeComponent();
@@ -25,7 +24,7 @@ namespace DealCardAlex
         
         private void FrmDealCard_Load(object sender, EventArgs e)
         {
-
+            CreateDeck();
         }
         //procedure: CreateDeck
         //input: void
@@ -162,19 +161,86 @@ namespace DealCardAlex
 
         private void picDealercard3_Click(object sender, EventArgs e)
         {
-            
-            //get a card from the list
+            if (ListCardImages.Count()== 0)
+            {
+                CreateDeck();
+            }
+            else
+            {
+                int random = randnum.Next(0, ListCardImages.Count() - 1);
+                DealCard(ref this.picDealercard3, random);
+            }
+           
 
         }
 
         private void picDealercard1_Click(object sender, EventArgs e)
         {
-
+            if (ListCardImages.Count() == 0)
+            {
+                CreateDeck();
+            }
+            else
+            {
+                int random = randnum.Next(0, ListCardImages.Count() - 1);
+                DealCard(ref this.picDealercard1, random);
+            }
         }
 
-        private void picPlayercard1_Click(object sender, EventArgs e)
-        {
+       
 
+        private void picPlayercard3_Click(object sender, EventArgs e)
+        {
+            if (ListCardImages.Count() == 0)
+            {
+                CreateDeck();
+            }
+            else
+            {
+                int random = randnum.Next(0, ListCardImages.Count() - 1);
+                DealCard(ref this.picPlayercard3, random);
+            }
+        }
+
+        private void picDealercard2_Click(object sender, EventArgs e)
+        {
+            if (ListCardImages.Count() == 0)
+            {
+                CreateDeck();
+            }
+            else
+            {
+                int random = randnum.Next(0, ListCardImages.Count() - 1);
+                DealCard(ref this.picDealercard2, random);
+            }
+        }
+
+        
+
+        private void picPlayercard2_Click(object sender, EventArgs e)
+        {
+            if (ListCardImages.Count() == 0)
+            {
+                CreateDeck();
+            }
+            else
+            {
+                int random = randnum.Next(0, ListCardImages.Count() - 1);
+                DealCard(ref this.picPlayercard2, random);
+            }
+        }
+
+        private void picPlayercard1_Click_1(object sender, EventArgs e)
+        {
+            if (ListCardImages.Count() == 0)
+            {
+                CreateDeck();
+            }
+            else
+            {
+                int random = randnum.Next(0, ListCardImages.Count() - 1);
+                DealCard(ref this.picPlayercard1, random);
+            }
         }
     }           
 }               

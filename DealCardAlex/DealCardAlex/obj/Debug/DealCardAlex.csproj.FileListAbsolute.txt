@@ -8,3 +8,12 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & List
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\bin\Debug\DealCardAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\bin\Debug\DealCardAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\bin\Debug\DealCardAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.frmDealCard.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-5-Arrays-Lists-\DealCardAlex\DealCardAlex\obj\Debug\DealCardAlex.pdb

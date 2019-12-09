@@ -174,12 +174,13 @@ namespace DealCardAlex
             ListCardValues.Add(10);
             ListCardValues.Add(10);
 
-            //procedure: DealCard
-            //input: ref picturebox aPictureBox, int randomIndex
-            //output: int
-            //Description:  this function deals the cards to each picture box
-
+           
         }
+        //procedure: DealCard
+        //input: ref picturebox aPictureBox, int randomIndex
+        //output: int
+        //Description:  this function deals the cards to each picture box
+
         private int DealCard(ref PictureBox aPictureBox, int randomIndex)
         {
             Image Card;

@@ -7,3 +7,4 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & List
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\FileRWAlex\FileRWAlex\obj\Debug\FileRWAlex.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\FileRWAlex\FileRWAlex\obj\Debug\FileRWAlex.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\FileRWAlex\FileRWAlex\obj\Debug\FileRWAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 5 (Arrays & Lists)\FileRWAlex\FileRWAlex\obj\Debug\FileRWAlex.FileRWForm.resources

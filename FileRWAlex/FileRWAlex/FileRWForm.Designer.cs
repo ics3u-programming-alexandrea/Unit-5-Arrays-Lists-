@@ -1,6 +1,6 @@
 ﻿namespace FileRWAlex
 {
-    partial class Form1
+    partial class FileRWForm
     {
         /// <summary>
         /// Required designer variable.
@@ -31,6 +31,7 @@
             this.btnCheck = new System.Windows.Forms.Button();
             this.lblCompare = new System.Windows.Forms.Label();
             this.lblCases = new System.Windows.Forms.Label();
+            this.lblOuput = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnCheck
@@ -58,21 +59,32 @@
             // 
             this.lblCases.AutoSize = true;
             this.lblCases.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblCases.Location = new System.Drawing.Point(200, 46);
+            this.lblCases.Location = new System.Drawing.Point(169, 46);
             this.lblCases.Name = "lblCases";
             this.lblCases.Size = new System.Drawing.Size(228, 25);
             this.lblCases.TabIndex = 2;
             this.lblCases.Text = "(Cases doesn\'t matter)";
             // 
-            // Form1
+            // lblOuput
+            // 
+            this.lblOuput.AutoSize = true;
+            this.lblOuput.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblOuput.Location = new System.Drawing.Point(71, 228);
+            this.lblOuput.Name = "lblOuput";
+            this.lblOuput.Size = new System.Drawing.Size(250, 25);
+            this.lblOuput.TabIndex = 3;
+            this.lblOuput.Text = "(Cases doesn\'t matter)";
+            // 
+            // FileRWForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(553, 295);
+            this.Controls.Add(this.lblOuput);
             this.Controls.Add(this.lblCases);
             this.Controls.Add(this.lblCompare);
             this.Controls.Add(this.btnCheck);
-            this.Name = "Form1";
+            this.Name = "FileRWForm";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -84,6 +96,7 @@
         private System.Windows.Forms.Button btnCheck;
         private System.Windows.Forms.Label lblCompare;
         private System.Windows.Forms.Label lblCases;
+        private System.Windows.Forms.Label lblOuput;
     }
 }
 
